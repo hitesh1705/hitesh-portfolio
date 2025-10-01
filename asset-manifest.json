@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hitesh-portfolio/static/css/main.64f2bf5f.css",
+    "main.js": "/hitesh-portfolio/static/js/main.8bd85497.js",
+    "index.html": "/hitesh-portfolio/index.html",
+    "main.64f2bf5f.css.map": "/hitesh-portfolio/static/css/main.64f2bf5f.css.map",
+    "main.8bd85497.js.map": "/hitesh-portfolio/static/js/main.8bd85497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f2bf5f.css",
+    "static/js/main.8bd85497.js"
+  ]
+}
