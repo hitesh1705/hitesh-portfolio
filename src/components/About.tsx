@@ -21,7 +21,27 @@ const About: React.FC = () => {
         </div>
         <div>
           <h3 className="font-semibold text-lg text-gray-700">Certifications & Courses</h3>
-          <p className="mt-3 text-gray-600">AWS Certified Cloud Practitioner, Google Cloud Skills.</p>
+          <p className="mt-3 text-gray-600">
+            <a
+              href="https://www.credly.com/badges/8f2ecd78-3c8f-41a6-9a6e-06376a3174e0/public_url"
+              target="_blank"
+              rel="noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              AWS Certified Cloud Practitioner
+            </a>,{' '}
+            <a
+              href="https://www.cloudskillsboost.google/public_profiles/7152a514-77c6-4514-9ddb-4b69112751ef"
+              target="_blank"
+              rel="noreferrer"
+              className="text-blue-600 hover:underline"
+            >
+              Google Cloud Skills
+            </a>.
+          </p>
+          <p className="mt-3 text-gray-600">
+            Completed courses in Data Structures, Algorithms, Database Management Systems, Artificial Intelligence, Data Analytics, and Mobile Application Development.
+          </p>
         </div>
       </div>
     </section>

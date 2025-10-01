@@ -12,12 +12,14 @@ const Experience = () => {
             <h3 className="font-bold text-xl text-gray-800">Software Engineer — CodeFacts IT Solutions</h3>
             <p className="text-sm text-gray-500">Jan 2023 – Dec 2023 · Hyderabad, India</p>
           </div>
-          <div className="mt-2 md:mt-0 text-sm text-gray-500">React, Node.js, MongoDB</div>
+          <div className="mt-2 md:mt-0 text-sm text-gray-500">React, Node.js, Express.js, MongoDB</div>
         </div>
         <ul className="mt-4 list-disc pl-6 text-gray-700 space-y-2">
-          <li>Built a scalable full‑stack app using React & Node.js, reducing load times by 30%.</li>
-          <li>Designed RESTful APIs and optimized MongoDB schemas and indexes, improving query times by 40%.</li>
-          <li>Implemented CI/CD pipelines using GitHub Actions to automate builds and deployments.</li>
+          <li>Engineered a scalable full-stack web application using React.js and Node.js, reducing load times by 30% and improving user experience.</li>
+          <li>Designed and deployed RESTful APIs with Node.js and Express.js, improving data retrieval efficiency by 25%.</li>
+          <li>Optimized (MongoDB) performance by redesigning schemas and creating indexes with Mongoose, enabling the system to process large-scale data entries and reducing average query time by 40%.</li>
+          <li>Collaborated in an Agile team environment, participating in sprint planning, code reviews, and daily stand-ups to ensure timely delivery of features.</li>
+          <li>Implemented CI/CD pipelines using GitHub Actions to automate builds, testing, and deployments, reducing manual deployment effort by 50%.</li>
         </ul>
       </article>
     </section>
